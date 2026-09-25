@@ -1351,7 +1351,7 @@ docker compose -p web -f docker-compose_web.yml up -d     # 只启动
 init-server/
 ├── init_server.sh                # 主脚本
 ├── README.md                     # 本文档
-├── LICENSE                       # MIT 许可证
+├── LICENSE                       # GPLv3 许可证
 ├── CHANGELOG.md                  # 更新日志
 ```
 
@@ -1404,7 +1404,7 @@ init-server/
 
 ## 许可证
 
-MIT License — 详见 [LICENSE](LICENSE) 文件。
+GPLv3 License — 详见 [LICENSE](LICENSE) 文件。
 
 Copyright (c) 2026
 
