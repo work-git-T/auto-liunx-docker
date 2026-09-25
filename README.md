@@ -5,7 +5,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-CentOS%207%2B%20%7C%20RHEL%207%2B%20%7C%20Rocky%20%7C%20Alma%20%7C%20Ubuntu%2020.04%2B%20%7C%20Debian%2011%2B-blue)]()
 [![Shell](https://img.shields.io/badge/shell-bash%204.0%2B-4EAA25)]()
-[![License](https://img.shields.io/badge/license-MIT-green)]()
+[![License](https://img.shields.io/badge/License-GPLv3-green)]()
 [![Version](https://img.shields.io/badge/version-1.0.0-orange)]()
 
 ---
